@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "name": "Atiqa Ahmed",
+        "imageUrl" : "",
+        "email" : "atiqa.ahmed@triosstudent.com"
+    },
+    {
+        "id":2,
+        "name": "Mark Dmytryshyn",
+        "imageUrl" : "",
+        "email" : "markdmy@hotmail.com"
+    },
+    {
+        "id":3,
+        "name": "Travis Kowalenko",
+        "imageUrl" : "",
+        "email" : "travis.kowalenko@triosstudent.com"
+    },
+    {
+        "id":4,
+        "name": "Murradazim Mehar",
+        "imageUrl" : "",
+        "email" : "murradazim.mehar@triosstudent.com"
+    },
+    {
+        "id":5,
+        "name": "Gagandeep Kaur",
+        "imageUrl" : "",
+        "email" : "gagandeep.kaurmcd@triosstudent.com"
+    },
+    {
+        "id":6,
+        "name": "Felipe Perez",
+        "imageUrl" : "",
+        "email" : "felipe.perez@triosstudent.com"
+    },
+    {
+        "id":6,
+        "name": "Dardan Kerqeli",
+        "imageUrl" : "",
+        "email" : "dardan.kerqeli@triosstudent.com"
+    },
+    {
+        "id":7,
+        "name": "Eunji Park",
+        "imageUrl" : "",
+        "email" : "eunji.park@triosstudent.com"
+
+
+    }
+
+
+
+]
