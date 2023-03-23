@@ -2,7 +2,7 @@
     {
         "id":1,
         "name": "Atiqa Ahmed",
-        "imageUrl" : "/public/atiqa.png",
+        "imageUrl" : "../../../public/atiqa.png",
         "email" : "atiqa.ahmed@triosstudent.com"
     },
     {
