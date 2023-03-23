@@ -38,22 +38,6 @@ const App = () => {
         className="students-search-box"
       />
       <CardList students={filteredStudents} />
-
-      {/* <div className="card-list">
-        {filteredStudents.map((student) => (
-          <div className="card-container" key={student.id}>
-            <img
-              src={
-                student.imageUrl === "" &&
-                `http://robohash.org/${student.id}?set=set4&size=180x180`
-              }
-              alt={`student ${student.name}`}
-            ></img>
-            <h2>{student.name}</h2>
-            <p>{student.email}</p>
-          </div>
-        ))}
-      </div> */}
     </div>
   );
 };
