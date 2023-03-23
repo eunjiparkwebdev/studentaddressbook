@@ -16,6 +16,12 @@
   transform: scale(1.05);
 }
 
-.card-container > h2, p {
+.card-container > h2, h3, p {
   color: #fbeded
+}
+h2 {
+  margin-bottom:0;
+}
+h3 {
+  margin: 0;
 }

@@ -13,7 +13,7 @@ const Card = ({ student }) => {
         alt={`student ${name}`}
       ></img>
       <h2>{name}</h2>
-      {title && <h3>{title}</h3>}
+      {title && <h3>({title})</h3>}
       <p>{email}</p>
     </div>
   );
