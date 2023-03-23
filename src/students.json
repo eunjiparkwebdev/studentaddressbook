@@ -2,13 +2,13 @@
     {
         "id":1,
         "name": "Atiqa Ahmed",
-        "imageUrl" : "../../../public/atiqa.png",
+        "imageUrl" : "%PUBLIC_URL%/atiqa.png",
         "email" : "atiqa.ahmed@triosstudent.com"
     },
     {
         "id":2,
         "name": "Mark Dmytryshyn",
-        "imageUrl" : "/public/mark.png",
+        "imageUrl" : "%PUBLIC_URL%/mark.png",
         "email" : "markdmy@hotmail.com"
     },
     {
@@ -38,7 +38,7 @@
     {
         "id":7,
         "name": "Dardan Kerqeli",
-        "imageUrl" : "/public/Darden.png",
+        "imageUrl" : "%PUBLIC_URL%/Darden.png",
         "email" : "dardan.kerqeli@triosstudent.com"
     },
     {

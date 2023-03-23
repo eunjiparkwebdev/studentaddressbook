@@ -7,7 +7,7 @@ const Card = ({ student }) => {
       <img
         src={
           imageUrl === ""
-            ? `http://robohash.org/${id}?set=set4&size=180x180`
+            ? `http://robohash.org/bgset_bg1/${id}?set=set5&size=180x180`
             : `${imageUrl}`
         }
         alt={`student ${name}`}

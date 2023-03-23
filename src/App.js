@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="app-title">Search Student</h1>
+      <h1 className="app-title">Let's see who's in Michael's class!</h1>
       <SearchBox
         onChangeHandler={onSearchChange}
         placeholder="search students"
