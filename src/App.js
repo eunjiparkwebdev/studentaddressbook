@@ -10,7 +10,7 @@ const App = () => {
 
   useEffect(() => {
     fetch(
-      "https://raw.githubusercontent.com/eunjiparkwebdev/studentaddressbook/main/src/students.json"
+      "https://raw.githubusercontent.com/eunjiparkwebdev/studentaddressbook/main/public/students.json"
     )
       .then((response) => response.json())
       .then((students) => setStudents(students));
