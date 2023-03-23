@@ -52,7 +52,7 @@
     {
         "id":9,
         "name": "Michael Lewis",
-        "imageUrl" : "",
+        "imageUrl" : "./michael.jpg",
         "email" : "michael.lewis@trios.com",
         "title" : "Boss"
 
