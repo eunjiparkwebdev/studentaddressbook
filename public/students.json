@@ -48,7 +48,17 @@
         "email" : "eunji.park@triosstudent.com"
 
 
+    },
+    {
+        "id":9,
+        "name": "Michael Lewis",
+        "imageUrl" : "",
+        "email" : "michael.lewis@trios.com",
+        "title" : "Boss"
+
+
     }
+
 
 
 
